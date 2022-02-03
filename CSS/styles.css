@@ -1,0 +1,25 @@
+body {
+background-color: #461111;
+}
+
+h1 {
+  color: #A13333;
+  font-style: oblique;
+}
+
+table{
+width: 90%;
+}
+
+h3 {
+color: #A13333;
+font-family: sans-serif;
+}
+
+hr {
+border-style: none;
+border-top-style: solid;
+  border-color: #040303;
+  border-width: 3px;
+  width: 85%;
+}
